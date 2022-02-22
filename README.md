@@ -1,4 +1,4 @@
-# Cheatsheet for aws s3 & RDS
+# Cheatsheet for AWS S3 & RDS in Google Colab
 
 ## Authentification using AWS cli
 ```
