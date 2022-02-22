@@ -90,7 +90,7 @@ s3.download_file('currentbucket', 'cities.csv', 'cities.csv')
 # renvoie download: s3://currentbucket/final.csv to content/final.csv 
 ```
 
-# Sending file to RDS
+# AWS RDS
 ```
 !pip install psycopg2-binary
 ```
